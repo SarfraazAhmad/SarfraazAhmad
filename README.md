@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sarfraz Ahmad 👋
 
-<!--
-**SarfraazAhmad/SarfraazAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Laravel Developer | PHP | MySQL | JavaScript  
+📍 Pakistan  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 2+ years experience in Laravel development
+- Built AML / MLRO Case Management Systems
+- Experience with REST APIs & AJAX-based applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Backend: PHP, Laravel
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Database: MySQL
+- Others: Git, AJAX, OOP, C++
+
+## 📂 Featured Projects
+- AML Compliance System (MLRO + STR)
+- Case Management System
+- REST API Project
+
+## 📫 Contact
+- Email: sarfrazahmadhfd100@email.com
